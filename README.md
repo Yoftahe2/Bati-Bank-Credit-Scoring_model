@@ -21,7 +21,7 @@ Python 3.x pip virtualenv
 
     Clone the project repository to your local machine using the following command:
 
-    git clone https://github.com/brook1167/Bati-Bank-Credit-Scoring-Model
+    git clone https://github.com/Yoftahe2/Bati-Bank-Credit-Scoring_model
 
 2. Install dependencies
 
